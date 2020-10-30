@@ -1,3 +1,20 @@
+# Updated for CIFAR-10
+
+------------
+
+TODO:
+
+- Update target model
+- Increase LR for generator and decrease LR for disc (currently the discriminator is training too fast)
+- Change loss function(WLoss)
+
+------------
+
+
+# Original Readme
+
+------------
+
 # advGAN_pytorch
 a Pytorch implementation of the paper "Generating Adversarial Examples with Adversarial Networks" (advGAN).
 
