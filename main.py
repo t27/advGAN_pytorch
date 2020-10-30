@@ -6,7 +6,8 @@ from advGAN import AdvGAN_Attack
 from models import MNIST_target_net
 
 use_cuda=True
-image_nc=1
+# image_nc=1
+image_nc=3
 epochs = 60
 batch_size = 128
 BOX_MIN = 0
